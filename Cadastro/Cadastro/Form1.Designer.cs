@@ -82,7 +82,7 @@ namespace Cadastro
             this.label1.Size = new System.Drawing.Size(24, 18);
             this.label1.TabIndex = 3;
             this.label1.Text = "Id:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // label2
             // 
@@ -110,6 +110,7 @@ namespace Cadastro
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(100, 20);
             this.txtNome.TabIndex = 6;
+            
             // 
             // btnEditar
             // 

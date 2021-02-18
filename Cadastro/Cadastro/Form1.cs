@@ -233,9 +233,6 @@ namespace Cadastro
             mktTelefone.Text = string.Empty;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
